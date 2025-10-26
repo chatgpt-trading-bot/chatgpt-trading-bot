@@ -3,7 +3,11 @@
 This bot allows you to trade cryptocurrencies using ChatGPT or other AI models directly on real exchanges. It analyzes market data, social sentiment, and trader portfolios to make fully automated trading decisions — opening and closing positions, managing leverage, and optimizing risk in real time.
 Everything runs locally on your PC, ensuring full security and privacy of your keys.
 
-![](assets/stats.png)
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="ChatGPT Trading Bot — an autonomous AI trading system powered by advanced language models." src="assets/download.png" />
+  </a>
+</div>
 
 ---
 
