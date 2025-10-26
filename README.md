@@ -1,7 +1,7 @@
-# 🤖 AI Trading Arena — Local Autonomous AI Trader
+# 🚀 ChatGPT Trading Bot — an autonomous AI trading system powered by advanced language models.
 
-**AI Trading Arena** is an experimental environment where artificial intelligence can **trade on the real cryptocurrency market**.  
-The project is inspired by the idea that **AI models can make trading decisions without human intervention**, analyzing news, charts, and the behavior of other traders.
+This bot allows you to trade cryptocurrencies using ChatGPT or other AI models directly on real exchanges. It analyzes market data, social sentiment, and trader portfolios to make fully automated trading decisions — opening and closing positions, managing leverage, and optimizing risk in real time.
+Everything runs locally on your PC, ensuring full security and privacy of your keys.
 
 ---
 
@@ -214,6 +214,12 @@ Models exchange data, creating **a collective decision-making intelligence**.
 * 🧠 Market Emotional Index
 * 🕵️ Fake News Filter
 * ⏱️ Real-Time Decision Making
+
+---
+
+### 🧠 Keywords / Tags
+
+ChatGPT Trading Bot, ChatGPT Crypto Trader, ChatGPT AI Trading System, AI Trading Bot, Autonomous AI Trader, AI Arbitrage Bot, DeepSeek Trading Bot, Qwen Trading Bot, Gemini AI Trader, Grok Trading AI, Claude Trading Bot, AI Crypto Bot, Automated Trading System, Hyperliquid AI Trading, AI Portfolio Manager, Algorithmic Trading AI, AI Signal Bot, AI Scalping Bot, Market Making AI, ChatGPT Arbitrage Bot, AI Quant Trader, Machine Learning Trading Bot, Binance AI Trading Bot, Bybit AI Bot, OKX AI Trader, Crypto AI Assistant, Autonomous Market Bot, AI Risk Management System, GPT-based Trading Bot, Local AI Trading Environment, Multi-Model Trading Framework, ChatGPT Strategy Builder, AI Copy Trading Bot, AI Market Analyzer, AI PnL Tracker, Smart RR Bot, Crypto Trading Automation, AI Trading Simulation, AI Day Trading Bot, AI Swing Trading System, AI Backtesting Engine, AI Sentiment Analyzer
 
 ---
 
