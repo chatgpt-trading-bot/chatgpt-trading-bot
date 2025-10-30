@@ -1,2 +1,3 @@
 # Project Update
 Record compliance status
+Adjust cloud resource auto-scaling rules
